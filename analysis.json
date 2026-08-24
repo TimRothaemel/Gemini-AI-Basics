@@ -1,0 +1,67 @@
+{
+  "title": "Pränataldiagnostik",
+  "document_summary": "Das Dokument bietet einen Überblick über verschiedene Methoden der Pränataldiagnostik (vorgeburtliche Untersuchungen) sowie die Präimplantationsdiagnostik (PID). Es werden medizinische Verfahren wie Ultraschall, Blutuntersuchungen bei der Schwangeren und Fruchtwasseruntersuchungen (Amniozentese) erläutert, um genetische Erkrankungen oder Fehlbildungen beim Fötus zu identifizieren, sowie ethische Aspekte der PID diskutiert.",
+  "topics": [
+    {
+      "title": "Ultraschalluntersuchungen",
+      "summary": "Ein bildgebendes Verfahren zur Überwachung der fötalen Entwicklung während der Schwangerschaft.",
+      "key_points": [
+        "Regelmäßige Durchführung zur Beurteilung des Wachstums und Entwicklungszustands.",
+        "Nutzt nicht hörbaren Schall zur Erstellung von Bildern der Gewebegrenzen.",
+        "Hinweise auf Fehlbildungen oder genetisch bedingte Krankheiten (z. B. durch Verdickung der Nackenfalte)."
+      ],
+      "definitions": [],
+      "formulas": []
+    },
+    {
+      "title": "Blutuntersuchungen bei Schwangeren",
+      "summary": "Ein nicht-invasives Verfahren zur genetischen Untersuchung des Fötus über das Blut der Mutter.",
+      "key_points": [
+        "Nachweis von Stoffwechselprodukten oder isolierten fötalen Zellen im mütterlichen Blut.",
+        "Sehr hohe Genauigkeit bei der Diagnose von Trisomie 21 (Down-Syndrom).",
+        "Gilt als risikoärmere Alternative zu invasiven Methoden."
+      ],
+      "definitions": [],
+      "formulas": []
+    },
+    {
+      "title": "Fruchtwasseruntersuchung (Amniozentese)",
+      "summary": "Ein invasives diagnostisches Verfahren zur Untersuchung der fötalen Zellen.",
+      "key_points": [
+        "Durchführung etwa ab der 14. Schwangerschaftswoche.",
+        "Entnahme von Fruchtwasser mittels Nadel durch die Bauchdecke unter Ultraschallkontrolle.",
+        "Erstellung eines Karyogramms zur Sichtbarmachung der Chromosomen.",
+        "Geringes Risiko einer Fehlgeburt (ca. 1%).",
+        "Genetische Beratung ist für spezifische Gen-Tests erforderlich."
+      ],
+      "definitions": [
+        {
+          "term": "Karyogramm",
+          "definition": "Die systematische Darstellung aller Chromosomen eines Individuums, geordnet nach Größe, Form und Bandenmuster."
+        }
+      ],
+      "formulas": []
+    },
+    {
+      "title": "Präimplantationsdiagnostik (PID)",
+      "summary": "Genetische Untersuchung von Embryonen nach einer künstlichen Befruchtung, bevor diese in die Gebärmutter eingesetzt werden.",
+      "key_points": [
+        "Anwendung nur im Rahmen einer In-vitro-Fertilisation (künstliche Befruchtung außerhalb des Körpers).",
+        "Entnahme einer Zelle aus dem frühen Embryo für genetische Analysen.",
+        "Ziel ist das Einsetzen nur genetisch gesunder Keime.",
+        "In Deutschland unter strengen Auflagen in speziellen Zentren erlaubt und ethisch umstritten."
+      ],
+      "definitions": [
+        {
+          "term": "Präimplantationsdiagnostik (PID)",
+          "definition": "Untersuchung von Embryonen im Reagenzglas auf genetische Defekte vor der Implantation in die Gebärmutter."
+        },
+        {
+          "term": "In-vitro-Fertilisation",
+          "definition": "Künstliche Befruchtung, bei der Ei- und Samenzellen außerhalb des Körpers zusammengebracht werden."
+        }
+      ],
+      "formulas": []
+    }
+  ]
+}
