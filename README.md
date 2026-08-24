@@ -1,15 +1,16 @@
 # AI Basics
 
-Ein kleines Node.js-Projekt, das die Gemini API nutzt, um ein lokales JSON-Dokument zu analysieren und verständlich zusammenzufassen.
+Ein kleines Projekt, das die Gemini API nutzt, um eine PDF-Datei in Text umzuwandeln und anschließend weiter zu verarbeiten.
 
 ## Überblick
 
-Das Projekt liest die Datei `analysis.json` ein und sendet den Inhalt als Prompt an das Gemini-Modell. So lässt sich leicht ein einfacher AI-Workflow mit realem Dateninput demonstrieren.
+Das Projekt verwendet die Datei `example.pdf` als Eingabe. Die KI liest das Dokument, erkennt den Text und liefert eine verständliche Textausgabe bzw. Analyse. Das ist ein einfacher Einstieg in PDF-Text-Extraction mit einem LLM-Workflow.
 
 ## Voraussetzungen
 
 - Node.js 18+
 - Ein gültiger Gemini API-Key
+- Eine PDF-Datei im Projektordner, z. B. `example.pdf`
 
 ## Installation
 
@@ -41,13 +42,14 @@ npm start
 
 ```text
 .
-├── analysis.json
+├── example.pdf
 ├── index.js
 ├── package.json
 ├── README.md
-└── .gitignore
+├── .gitignore
+└── analysis.json
 ```
 
 ## Hinweis
 
-Dieses Beispiel ist bewusst klein gehalten und dient als Einstieg in die Nutzung der Gemini API mit Node.js. Es kann als Basis für eigene AI-Tools, Analyse-Skripte oder Dokument-Workflows erweitert werden.
+Dieses Beispiel zeigt den konkreten Workflow: PDF-Datei -> Text-Erkennung mit Gemini -> weiterverarbeitbarer Inhalt. Es eignet sich als Basis für Dokumentanalyse, Extraktion und AI-basierte Inhaltsverarbeitung.
